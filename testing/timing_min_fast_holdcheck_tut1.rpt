@@ -1,0 +1,145 @@
+Information: Updating design information... (UID-85)
+Information: Timing loop detected. (OPT-150)
+	U88/A U88/ZN U87/A2 U87/ZN 
+Information: Timing loop detected. (OPT-150)
+	U96/A U96/ZN U95/A2 U95/ZN 
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U88'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U96'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U94'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U92'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U90'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U86'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U84'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U70'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U68'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U78'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U82'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U80'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U76'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U74'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U72'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U58'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U56'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U54'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U52'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U66'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U64'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U62'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U60'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U98'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U48'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U46'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U44'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U42'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U38'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U40'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U36'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U26'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U24'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U22'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U20'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U18'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U16'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U12'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U14'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U10'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U8'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U6'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U4'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U34'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U30'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U32'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U28'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'A' and 'ZN' on cell 'U50'
+         to break a timing loop. (OPT-314)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 1
+Design : accum_pipe
+Version: H-2013.03-SP2
+Date   : Sun Mar 29 20:22:16 2015
+****************************************
+
+Operating Conditions: fast   Library: NangateOpenCellLibrary_PDKv1_2_v2008_10_fast_nldm
+Wire Load Model Mode: top
+
+  Startpoint: input_pipe2_reg[0]
+              (rising edge-triggered flip-flop clocked by clock)
+  Endpoint: input_pipe3_reg[0]
+            (rising edge-triggered flip-flop clocked by clock)
+  Path Group: clock
+  Path Type: min
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clock (rise edge)                0.0000     0.0000
+  clock network delay (ideal)            0.0000     0.0000
+  input_pipe2_reg[0]/CK (DFFR_X1)        0.0000     0.0000 r
+  input_pipe2_reg[0]/Q (DFFR_X1)         0.0699     0.0699 r
+  input_pipe3_reg[0]/D (DFFR_X1)         0.0000     0.0699 r
+  data arrival time                                 0.0699
+
+  clock clock (rise edge)                0.0000     0.0000
+  clock network delay (ideal)            0.0000     0.0000
+  clock uncertainty                      0.0500     0.0500
+  input_pipe3_reg[0]/CK (DFFR_X1)        0.0000     0.0500 r
+  library hold time                     -0.0087     0.0413
+  data required time                                0.0413
+  -----------------------------------------------------------
+  data required time                                0.0413
+  data arrival time                                -0.0699
+  -----------------------------------------------------------
+  slack (MET)                                       0.0286
+
+
+1

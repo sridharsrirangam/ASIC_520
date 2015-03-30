@@ -1,0 +1,44 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : accum_pipe
+Version: H-2013.03-SP2
+Date   : Sun Mar 29 20:22:18 2015
+****************************************
+
+Operating Conditions: slow   Library: NangateOpenCellLibrary_PDKv1_2_v2008_10_slow_nldm
+Wire Load Model Mode: top
+
+  Startpoint: input_YV[1]
+              (input port clocked by clock)
+  Endpoint: input_pipe1_reg[1]
+            (rising edge-triggered flip-flop clocked by clock)
+  Path Group: clock
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clock (rise edge)                0.0000     0.0000
+  clock network delay (ideal)            0.0000     0.0000
+  input external delay                   0.6580     0.6580 f
+  input_YV[1] (in)                       0.1185     0.7765 f
+  input_pipe1_reg[1]/D (DFFR_X1)         0.0000     0.7765 f
+  data arrival time                                 0.7765
+
+  clock clock (rise edge)               10.0000    10.0000
+  clock network delay (ideal)            0.0000    10.0000
+  clock uncertainty                     -0.0500     9.9500
+  input_pipe1_reg[1]/CK (DFFR_X1)        0.0000     9.9500 r
+  library setup time                    -0.4458     9.5042
+  data required time                                9.5042
+  -----------------------------------------------------------
+  data required time                                9.5042
+  data arrival time                                -0.7765
+  -----------------------------------------------------------
+  slack (MET)                                       8.7277
+
+
+1

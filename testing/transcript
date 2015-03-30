@@ -1,0 +1,67 @@
+# //  ModelSim SE 10.0c Jul 21 2011 Linux 2.6.32-504.12.2.el6.x86_64
+# //
+# //  Copyright 1991-2011 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+#  
+setenv MODELSIM modelsim.ini
+# modelsim.ini
+vlog addsub_pipe.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module DW_fp_addsub
+# -- Compiling module fp_addsub_24
+# 
+# Top level modules:
+# 	fp_addsub_24
+vlog addsub_cplx.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module addsub_cplx
+# 
+# Top level modules:
+# 	addsub_cplx
+vlog accumulator_pipe.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module accum_pipe
+# ** Error: accumulator_pipe.v(13): near "'b": syntax error, unexpected BASE, expecting ';'
+# ** Error: accumulator_pipe.v(14): near "'b": syntax error, unexpected BASE, expecting ';'
+# ** Error: accumulator_pipe.v(15): near "'b": syntax error, unexpected BASE, expecting ';'
+# ** Error: accumulator_pipe.v(26): near "'b": syntax error, unexpected BASE
+# /ncsu/modelsim10.0c/linux/vlog failed.
+vlog accumulator_pipe.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module accum_pipe
+# ** Error: accumulator_pipe.v(14): near "'b": syntax error, unexpected BASE, expecting ';'
+# ** Error: accumulator_pipe.v(15): near "'b": syntax error, unexpected BASE, expecting ';'
+# ** Error: accumulator_pipe.v(26): near "'b": syntax error, unexpected BASE
+# /ncsu/modelsim10.0c/linux/vlog failed.
+vlog accumulator_pipe.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module accum_pipe
+# ** Error: accumulator_pipe.v(26): near "'b": syntax error, unexpected BASE
+# /ncsu/modelsim10.0c/linux/vlog failed.
+vlog accumulator_pipe.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module accum_pipe
+# 
+# Top level modules:
+# 	accum_pipe
+vlog accumulator_pipe.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module accum_pipe
+# ** Error: accumulator_pipe.v(13): near "[": syntax error, unexpected '['
+# /ncsu/modelsim10.0c/linux/vlog failed.
+vlog accumulator_pipe.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module accum_pipe
+# ** Error: accumulator_pipe.v(13): near "'b": syntax error, unexpected BASE, expecting ';'
+# /ncsu/modelsim10.0c/linux/vlog failed.
+vlog accumulator_pipe.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module accum_pipe
+# 
+# Top level modules:
+# 	accum_pipe
